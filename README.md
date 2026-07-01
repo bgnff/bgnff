@@ -16,7 +16,7 @@ Estudante de Análise e Desenvolvimento de Sistemas. 📚
 
 <div style="display: inline_block"><br>
 
-  <img align="center" alt="Brayan-Java" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
+  <img align="center" alt="Brayan MySql" height="40" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
   <img align="center" alt="Brayan-Java" height="40" width="45" src="https://skillicons.dev/icons?i=java&theme=light">
   
 </div>
