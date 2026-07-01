@@ -15,8 +15,8 @@ Estudante de Análise e Desenvolvimento de Sistemas. 📚
 ## Linguagens do dia a dia: 💻
 
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Brayan-Python" height="40" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img align="center" alt="Brayan-Java" height="40" width="45" src="https://skillicons.dev/icons?i=java&theme=light">
   
 </div>
