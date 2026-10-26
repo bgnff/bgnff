@@ -27,7 +27,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender 
 ## `> tecnologias_e_ferramentas`
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,linux,idea,vscode,visualstudio&theme=dark" alt="Java, Spring, MySQL, PostgreSQL, Git, GitHub, Linux, IntelliJ IDEA, VS Code e Visual Studio" />
+  <img src="https://skillicons.dev/icons?i=java,mysql,postgres,git,github,linux,idea,vscode,visualstudio&theme=dark" alt="Java, MySQL, PostgreSQL, Git, GitHub, Linux, IntelliJ IDEA, VS Code e Visual Studio" />
 </div>
 
 ### Em aprendizagem e uso em projetos
