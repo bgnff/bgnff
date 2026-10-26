@@ -50,11 +50,11 @@ Sistema para cadastro, consulta, edição e exclusão de fornecedores, com contr
 
 > Repositório privado.
 
-### Calculadora de Grandezas Elétricas
+### PATAHUB — Sistema de Gestão para PetShop
 
-Calculadora desenvolvida em C# para tensão, corrente, resistência e potência. O projeto também identifica automaticamente as cores das faixas de um resistor a partir da resistência calculada.
+Sistema de gestão para pet shops desenvolvido como aplicação desktop com Windows Forms e integração com banco de dados MySQL.
 
-`C#` · `Git`
+`C#` · `Windows Forms` · `MySQL`
 
 > Repositório privado.
 
@@ -76,11 +76,7 @@ Calculadora desenvolvida em C# para tensão, corrente, resistência e potência.
 ## `> atividade`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" />
-    <img alt="Animação das contribuições de Brayan Oliveira" src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img alt="Animação das contribuições de Brayan Oliveira" src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ## `> contato`
@@ -98,4 +94,3 @@ Calculadora desenvolvida em C# para tensão, corrente, resistência e potência.
   <i>Aberto a oportunidades de estágio e desenvolvimento júnior.</i>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:09001f,45:4318a8,100:00d9ff" alt="Rodapé decorativo" />
 </div>
-
