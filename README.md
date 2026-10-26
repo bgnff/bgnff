@@ -40,6 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender 
 
 `SQL` · `Programação orientada a objetos` · `Algoritmos` · `Lógica de programação` · `Scrum` · `Kanban` · `Hardware` · `Redes Wireless`
 
+
 ## `> arvore_de_contribuicoes`
 
 <div align="center">
@@ -49,6 +50,21 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender 
     <img width="100%" alt="Árvore de contribuições animada de Brayan Oliveira" src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+## `> estatisticas`
+
+<div align="center">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff&locale=pt-br" media="(prefers-color-scheme: dark)" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=true&title_color=6d28d9&icon_color=0891b2&locale=pt-br" alt="Estatísticas do GitHub de Brayan Oliveira" />
+  </picture>
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=true&bg_color=0d1117&title_color=8b5cf6&text_color=c9d1d9&locale=pt-br" media="(prefers-color-scheme: dark)" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=true&title_color=6d28d9&locale=pt-br" alt="Linguagens mais usadas nos repositórios de Brayan Oliveira" />
+  </picture>
+</div>
+
+> As linguagens são calculadas a partir dos repositórios públicos e não representam necessariamente meu nível de experiência.
 
 ## `> projetos_em_destaque`
 
