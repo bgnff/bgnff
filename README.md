@@ -33,7 +33,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender 
 ### Em aprendizagem e uso em projetos
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cs,react&theme=dark" alt="Python, C Sharp e React" />
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet&theme=dark" alt="Python, C Sharp e .NET, utilizado com Windows Forms" />
 </div>
 
 ### Outros conhecimentos
