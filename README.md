@@ -38,7 +38,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e gosto de entender 
 
 ### Outros conhecimentos
 
-`SQL` · `Programação orientada a objetos` · `Algoritmos` · `Lógica de programação` · `REST API` · `JPA/Hibernate` · `Scrum` · `Kanban` · `Hardware` · `Redes Wireless`
+`SQL` · `Programação orientada a objetos` · `Algoritmos` · `Lógica de programação` · `Scrum` · `Kanban` · `Hardware` · `Redes Wireless`
 
 ## `> arvore_de_contribuicoes`
 
