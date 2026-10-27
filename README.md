@@ -19,7 +19,10 @@
 />
 
 Seja **bem-vindo ao meu perfil!** Moro em Ribeirão das Neves - MG e curso **Análise e Desenvolvimento de Sistemas no SENAI CTTI**.
+
 Tenho interesse em seguir carreira como desenvolvedor **Full-Stack**, amo automações, IA e desenvolver novas soluções.
+
+Procuro minha primeira oportunidade na área da tecnologia.
 
 <br clear="right">
 
