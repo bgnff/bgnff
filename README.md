@@ -57,7 +57,7 @@ Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira o
 | Projeto | Descrição | Tecnologias |
 | :--- | :--- | :--- |
 | 🐾 [PataHub](https://github.com/PipitoDev/PetShop_App) | Sistema completo de gestão operacional para petshops. | C# · Windows Forms · MySQL |
-| 🤝 **Gerenciamento de Parceiros** 🔒 | Sistema para organizar fornecedores e parceiros da Fundação CDL-BH. | Java · Spring Boot · MySQL · React |
+| 🤝 **ELO CRM** 🔒 | Sistema para organizar fornecedores e parceiros da Fundação CDL-BH. | Java · Spring Boot · MySQL · React |
 | 📚 [SISM — Atividades SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES) | Atividades e projetos que mostram minha trajetória e evolução no SENAI. | Programação · Banco de dados |
 
 ---
