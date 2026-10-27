@@ -15,15 +15,22 @@ Tenho interesse em desenvolvimento **Full-Stack** e bancos de dados, e gosto de 
 
 Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira oportunidade em tecnologia, como **estagiário ou desenvolvedor júnior**, para continuar aprendendo e evoluindo na prática.
 
-### Tecnologias e ferramentas
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,cs,python,git,github,vscode,visualstudio,idea,pycharm,linux&theme=dark&perline=7" alt="Java, Spring Boot, MySQL, PostgreSQL, C#, Python, Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, PyCharm e Linux" />
-
+<img
+  src="https://skillicons.dev/icons?i=java,mysql,postgres,git,github,linux,idea,vscode,visualstudio&theme=dark"
+  alt="Java, MySQL, PostgreSQL, Git, GitHub, Linux, IntelliJ IDEA, VS Code e Visual Studio"
+/>
 </div>
 
-<sub>Também estudo programação orientada a objetos, APIs REST, SQL, Scrum e Kanban. Python e C# estão em aprendizagem.</sub>
+Em aprendizagem e uso em projetos
+<div align="center">
+
+<img
+  src="https://skillicons.dev/icons?i=python,cs,dotnet,spring,react&theme=dark"
+  alt="Python, C#, .NET, Spring e React"
+/>
+</div>
 
 ### Projetos em destaque
 
