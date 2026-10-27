@@ -6,11 +6,8 @@
 
 <sub>Aprendendo na prática e transformando ideias em soluções.</sub>
 
-<br><br>
-
-<!-- Substitua o caminho abaixo pelo caminho do GIF que você adicionou -->
-<img src="bgnff/assets/ackerman.gif" width="500" alt="GIF de Attack on Titan" />
-
+<div align="center">
+  <img src="./assets/levi-ackerman.gif" width="500" alt="GIF de Attack on Titan" />
 </div>
 
 ---
