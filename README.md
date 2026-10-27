@@ -101,9 +101,4 @@ Repositório que reúne atividades e projetos desenvolvidos durante minha forma�
   />
 </a>
 
-</div>
-
-
-<div align="center">
-
 <i>Aberto a oportunidades de estágio e desenvolvimento júnior.</i>
