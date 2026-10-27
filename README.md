@@ -44,8 +44,8 @@ Procuro minha primeira oportunidade na área da tecnologia.
 <div align="center">
 
 <img
-  src="https://skillicons.dev/icons?i=python,cs,dotnet,spring,react&theme=dark"
-  alt="Python, C#, .NET, Spring e React"
+  src="https://skillicons.dev/icons?i=python,cs,dotnet&theme=dark"
+  alt="Python, C# e .NET"
 />
 
 </div>
