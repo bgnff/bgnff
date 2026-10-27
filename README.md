@@ -1,11 +1,15 @@
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2800&pause=1800&color=E8A87C&center=true&vCenter=true&width=650&height=65&lines=Ol%C3%A1%21+Prazer%2C+eu+sou+o+Brayan%21" alt="Olá! Prazer, eu sou o Brayan!" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=29&duration=2900&pause=1600&color=E8A87C&center=true&vCenter=true&width=720&height=70&lines=Ol%C3%A1%21+Prazer%2C+eu+sou+o+Brayan%21" alt="Olá! Prazer, eu sou o Brayan!" />
 
-**Desenvolvimento de software · Aprendizado contínuo**
+**Estudante de Desenvolvimento de Sistemas | Interesse em Back-end**
 
-<sub>Transformando ideias em projetos, uma linha de código por vez.</sub>
+<sub>Aprendendo na prática e transformando ideias em soluções.</sub>
+
+<br><br>
+
+<!-- Substitua o caminho abaixo pelo caminho do GIF que você adicionou -->
+<img src="bgnff/assets/ackerman.gif" width="500" alt="GIF de Attack on Titan" />
 
 </div>
 
@@ -13,38 +17,43 @@
 
 ### Sobre mim
 
-Sou estudante de desenvolvimento de sistemas e gosto de aprender na prática, criando aplicações, explorando tecnologias e resolvendo problemas.
+Sou estudante do curso técnico de **Análise e Desenvolvimento de Sistemas no SENAI CTTI**, com conclusão prevista para **julho de 2027**.
 
-- Desenvolvendo projetos com foco em aplicações desktop, lógica de programação e bancos de dados.
-- Estudando desenvolvimento de software no SENAI.
-- Compartilhando projetos, exercícios e minha evolução na área de tecnologia.
+Tenho interesse em **desenvolvimento back-end**, programação e bancos de dados. Gosto de entender como as coisas funcionam por trás dos sistemas e transformar ideias em soluções.
+
+Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH**, onde apoio rotinas administrativas e, por iniciativa própria, também auxilio em atividades básicas de suporte de TI.
+
+Busco minha primeira oportunidade na área de tecnologia, como **estagiário ou desenvolvedor júnior**, para aprender com outros profissionais e continuar evoluindo na prática.
 
 ### Tecnologias e ferramentas
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,java,mysql,git,github,vscode,visualstudio&theme=dark&perline=8" alt="C#, .NET, Java, MySQL, Git, GitHub, VS Code e Visual Studio" />
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,cs,python,git,github,vscode,visualstudio,idea,pycharm,linux&theme=dark&perline=7" alt="Java, Spring Boot, MySQL, PostgreSQL, C#, Python, Git, GitHub, VS Code, Visual Studio, IntelliJ IDEA, PyCharm e Linux" />
 
 </div>
 
-<sub>Também utilizo SQL, Windows Forms, Flowgorithm e VisualG em projetos e atividades.</sub>
-
+<sub>Também estudo programação orientada a objetos, APIs REST, SQL, Scrum e Kanban. Python e C# estão em aprendizagem.</sub>
 
 ### Projetos em destaque
 
-| Projeto | Descrição |
-| :--- | :--- |
-| **Sistema de Gerenciamento de Parceiros — Fundação CDL-BH** | Sistema desenvolvido para otimizar a gestão de fornecedores e parceiros da Fundação CDL-BH, centralizando cadastros, consultas e o gerenciamento de informações. |
-| **PATAHUB — Gestão de Petshop** | Sistema de gerenciamento operacional de petshops, desenvolvido em colaboração com um colega do SENAI. Construído com **C#, Windows Forms e MySQL**, com foco na organização e centralização das rotinas administrativas e operacionais do estabelecimento. |
-| **[ Minha trajetória no SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)** | Repositório que documenta minha evolução durante o curso técnico de Desenvolvimento de Sistemas, reunindo atividades de lógica de programação, Java, C#, SQL, banco de dados e projetos práticos. |
+**[PataHub — Gestão de Petshop](https://github.com/PipitoDev/PetShop_App)**  
+Sistema completo de gestão operacional para petshops, desenvolvido com **C#, Windows Forms e MySQL**.
 
-### Atividade no GitHub
+**Sistema de Gerenciamento de Parceiros — Fundação CDL-BH**  
+Sistema desenvolvido para auxiliar na organização e no gerenciamento de fornecedores e parceiros, com cadastro, consulta, edição, exclusão e controle de acesso. Desenvolvido com **Java, Spring Boot, MySQL, React e APIs REST**.  
+*Repositório privado.*
+
+**[SISM — Atividades do SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)**  
+Repositório que reúne atividades e projetos desenvolvidos durante minha formação no SENAI, registrando minha trajetória e evolução em lógica de programação, desenvolvimento de sistemas e bancos de dados.
+
+### Estatísticas do GitHub
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=true&bg_color=00000000&title_color=E8A87C&text_color=9CA3AF&icon_color=E8A87C&locale=pt-br" alt="Estatísticas do GitHub" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&icon_color=9CA3AF&locale=pt-br" alt="Estatísticas do GitHub" />
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=true&bg_color=00000000&title_color=E8A87C&text_color=9CA3AF&locale=pt-br" alt="Linguagens mais usadas" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
 
@@ -55,13 +64,11 @@ Sou estudante de desenvolvimento de sistemas e gosto de aprender na prática, cr
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação Snake das contribuições no GitHub" src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" />
 </picture>
 
 </div>
 
----
+### Contato
 
-<div align="center">
-  <sub>Obrigado pela visita!</sub>
-</div>
+[LinkedIn](https://www.linkedin.com/in/brayan-oliveira-955242351/) · [E-mail](mailto:contatobgnx@gmail.com)
