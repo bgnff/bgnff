@@ -4,13 +4,18 @@
 
 ### Sobre mim
 
-Me chamo **Brayan Oliveira**, moro em Ribeirão das Neves - MG e curso **Análise e Desenvolvimento de Sistemas no SENAI CTTI**. Tenho interesse em desenvolvimento **Full-Stack** e bancos de dados, e gosto de transformar ideias em soluções.
+<img
+  align="right"
+  src="./assets/ackerman.gif"
+  width="340"
+  alt="Levi Ackerman em Attack on Titan"
+/>
+
+Me chamo **Brayan Oliveira**, moro em Ribeirão das Neves - MG e curso **Análise e Desenvolvimento de Sistemas no SENAI CTTI**.
+
+Tenho interesse em desenvolvimento **Full-Stack** e bancos de dados, e gosto de transformar ideias em soluções.
 
 Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira oportunidade em tecnologia, como **estagiário ou desenvolvedor júnior**, para continuar aprendendo e evoluindo na prática.
-
-<div align="center">
-  <img src="./assets/ackerman.gif" width="500" alt="GIF de Attack on Titan" />
-</div>
 
 ### Tecnologias e ferramentas
 
