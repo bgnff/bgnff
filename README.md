@@ -93,6 +93,7 @@ Repositório que reúne as atividades e os projetos desenvolvidos durante minha 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
+
 ---
 
 ### Contribuições
