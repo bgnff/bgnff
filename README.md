@@ -2,7 +2,7 @@
 
 <br />
 
-![Visualizações do perfil](https://komarev.com/ghpvc/?username=bgnff&style=for-the-badge&color=6d28d9&label=VISITAS)
+![Visualizações do perfil](https://komarev.com/ghpvc/?username=bgnff&style=for-the-badge&color=blue=VISITAS)
 
 </div>
 
