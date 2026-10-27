@@ -1,10 +1,4 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:09001f,45:4318a8,100:00d9ff&text=Brayan%20Oliveira&fontColor=ffffff&fontSize=48&fontAlignY=37&animation=fadeIn&desc=Estudante%20de%20An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=59&descSize=16" alt="Banner de Brayan Oliveira" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&pause=1000&color=8B5CF6&center=true&vCenter=true&random=false&width=760&lines=Ol%C3%A1!+Eu+sou+o+Brayan+Oliveira+%F0%9F%91%8B;Estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Em+busca+de+uma+oportunidade+em+Tecnologia;Foco+em+desenvolvimento+Back-end" alt="Apresentação animada de Brayan Oliveira" />
-</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&pause=1000&width=435&lines=Ol%C3%A1!+Prazer%2C+eu+sou+o+Brayan!" alt="Typing SVG" /></a>
 
 <br />
 
