@@ -88,18 +88,9 @@ Repositório que reúne as atividades e os projetos desenvolvidos durante minha 
 
 <div align="center">
 
-<a href="https://github.com/bgnff">
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&icon_color=9CA3AF&locale=pt-br"
-    alt="Estatísticas do GitHub de Brayan Oliveira"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&locale=pt-br"
-    alt="Linguagens mais utilizadas por Brayan Oliveira"
-  />
-</a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&icon_color=9CA3AF&locale=pt-br" alt="Estatísticas do GitHub" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&locale=pt-br" alt="Linguagens mais utilizadas" />
 
 </div>
 ---
