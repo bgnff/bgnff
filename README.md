@@ -19,10 +19,7 @@
 />
 
 Seja **bem-vindo ao meu perfil!** Moro em Ribeirão das Neves - MG e curso **Análise e Desenvolvimento de Sistemas no SENAI CTTI**.
-
-Tenho interesse em desenvolvimento **Full-Stack** e bancos de dados, e gosto de transformar ideias em soluções.
-
-Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira oportunidade em tecnologia, como **estagiário ou desenvolvedor júnior**, para continuar aprendendo e evoluindo na prática.
+Tenho interesse em seguir carreira como desenvolvedor **Full-Stack**, amo automações, IA e desenvolver novas soluções.
 
 <br clear="right">
 
