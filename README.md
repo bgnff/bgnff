@@ -54,33 +54,11 @@ Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira o
 
 ### Projetos em destaque
 
-#### 🐾 PataHub — Sistema de Gestão para Petshop
-
-Sistema completo de **gestão operacional para petshops**, desenvolvido como aplicação desktop para auxiliar na organização das atividades do estabelecimento.
-
-`C#` · `Windows Forms` · `MySQL`
-
-🔗 [Acessar o repositório](https://github.com/PipitoDev/PetShop_App)
-
-<br>
-
-#### 🤝 Sistema de Gerenciamento de Parceiros — Fundação CDL-BH
-
-Sistema desenvolvido para auxiliar na organização e no gerenciamento de fornecedores e parceiros da Fundação CDL-BH.
-
-Conta com funcionalidades de cadastro, consulta, edição e exclusão, além de controle de usuários, login, validações, registro de alterações e backup do banco de dados.
-
-`Java` · `Spring Boot` · `MySQL` · `JPA/Hibernate` · `React` · `REST API` · `Git/GitHub`
-
-🔒 Repositório privado.
-
-<br>
-
-#### 📚 SISM — Atividades do SENAI
-
-Repositório que reúne as atividades e os projetos desenvolvidos durante minha formação no SENAI, registrando minha trajetória de aprendizagem e evolução em programação, desenvolvimento de sistemas e bancos de dados.
-
-🔗 [Acessar o repositório](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)
+| Projeto | Descrição | Tecnologias |
+| :--- | :--- | :--- |
+| 🐾 [PataHub](https://github.com/PipitoDev/PetShop_App) | Sistema completo de gestão operacional para petshops. | C# · Windows Forms · MySQL |
+| 🤝 **Gerenciamento de Parceiros** 🔒 | Sistema para organizar fornecedores e parceiros da Fundação CDL-BH. | Java · Spring Boot · MySQL · React |
+| 📚 [SISM — Atividades SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES) | Atividades e projetos que mostram minha trajetória e evolução no SENAI. | Programação · Banco de dados |
 
 ---
 
