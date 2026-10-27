@@ -29,14 +29,14 @@ Sou estudante de desenvolvimento de sistemas e gosto de aprender na prática, cr
 
 <sub>Também utilizo SQL, Windows Forms, Flowgorithm e VisualG em projetos e atividades.</sub>
 
-### Projetos
+
+### Projetos em destaque
 
 | Projeto | Descrição |
 | :--- | :--- |
-| [PetShop Manager](https://github.com/bgnff/PetShopSA) | Sistema administrativo desktop para pet shop em C# e .NET 8 com Windows Forms. |
-| [Atividades SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES) | Exercícios e projetos de lógica, Java, C#, SQL e banco de dados. |
-| [Calculadora de Grandezas Elétricas](https://github.com/bgnff/Calculadora-de-Grandezas-Eletricas) | Projeto para cálculos de tensão, corrente, resistência e potência. |
-| [Trilha Java — DIO](https://github.com/bgnff/dio-trilha-java) | Repositório de estudos e exercícios de Java. |
+| **Sistema de Gerenciamento de Parceiros — Fundação CDL-BH** | Sistema desenvolvido para otimizar a gestão de fornecedores e parceiros da Fundação CDL-BH, centralizando cadastros, consultas e o gerenciamento de informações. |
+| **PATAHUB — Gestão de Petshop** | Sistema de gerenciamento operacional de petshops, desenvolvido em colaboração com um colega do SENAI. Construído com **C#, Windows Forms e MySQL**, com foco na organização e centralização das rotinas administrativas e operacionais do estabelecimento. |
+| **[ Minha trajetória no SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)** | Repositório que documenta minha evolução durante o curso técnico de Desenvolvimento de Sistemas, reunindo atividades de lógica de programação, Java, C#, SQL, banco de dados e projetos práticos. |
 
 ### Atividade no GitHub
 
