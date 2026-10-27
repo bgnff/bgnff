@@ -1,6 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=29&duration=2900&pause=1600&color=E8A87C&center=true&vCenter=true&width=720&height=70&lines=Ol%C3%A1%21+Prazer%2C+eu+sou+o+Brayan%21" alt="Olá! Prazer, eu sou o Brayan!" />
+<img
+  src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=29&duration=2900&pause=1600&color=E8A87C&center=true&vCenter=true&width=720&height=70&lines=Ol%C3%A1%21+Prazer%2C+eu+sou+o+Brayan%21"
+  alt="Olá! Prazer, eu sou o Brayan!"
+/>
+
+</div>
+
+---
+
+### Sobre mim
 
 <img
   align="right"
@@ -9,11 +18,17 @@
   alt="Levi Ackerman em Attack on Titan"
 />
 
-Seja **Bem-Vindo ao meu perfil!** Moro em Ribeirão das Neves - MG e curso **Análise e Desenvolvimento de Sistemas no SENAI CTTI**.
+Seja **bem-vindo ao meu perfil!** Moro em Ribeirão das Neves - MG e curso **Análise e Desenvolvimento de Sistemas no SENAI CTTI**.
 
 Tenho interesse em desenvolvimento **Full-Stack** e bancos de dados, e gosto de transformar ideias em soluções.
 
 Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira oportunidade em tecnologia, como **estagiário ou desenvolvedor júnior**, para continuar aprendendo e evoluindo na prática.
+
+<br clear="right">
+
+---
+
+### Tecnologias e ferramentas
 
 <div align="center">
 
@@ -21,20 +36,25 @@ Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira o
   src="https://skillicons.dev/icons?i=java,mysql,postgres,git,github,linux,idea,vscode,visualstudio&theme=dark"
   alt="Java, MySQL, PostgreSQL, Git, GitHub, Linux, IntelliJ IDEA, VS Code e Visual Studio"
 />
+
 </div>
 
-Em aprendizagem e uso em projetos
+#### Em aprendizagem e uso em projetos
+
 <div align="center">
 
 <img
   src="https://skillicons.dev/icons?i=python,cs,dotnet,spring,react&theme=dark"
   alt="Python, C#, .NET, Spring e React"
 />
+
 </div>
+
+---
 
 ### Projetos em destaque
 
-### 🐾 PataHub — Sistema de Gestão para Petshop
+#### 🐾 PataHub — Sistema de Gestão para Petshop
 
 Sistema completo de **gestão operacional para petshops**, desenvolvido como aplicação desktop para auxiliar na organização das atividades do estabelecimento.
 
@@ -44,7 +64,7 @@ Sistema completo de **gestão operacional para petshops**, desenvolvido como apl
 
 <br>
 
-### 🤝 Sistema de Gerenciamento de Parceiros — Fundação CDL-BH
+#### 🤝 Sistema de Gerenciamento de Parceiros — Fundação CDL-BH
 
 Sistema desenvolvido para auxiliar na organização e no gerenciamento de fornecedores e parceiros da Fundação CDL-BH.
 
@@ -56,13 +76,11 @@ Conta com funcionalidades de cadastro, consulta, edição e exclusão, além de 
 
 <br>
 
-### 📚 SISM — Atividades do SENAI
+#### 📚 SISM — Atividades do SENAI
 
 Repositório que reúne as atividades e os projetos desenvolvidos durante minha formação no SENAI, registrando minha trajetória de aprendizagem e evolução em programação, desenvolvimento de sistemas e bancos de dados.
 
 🔗 [Acessar o repositório](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)
-
-<br>
 
 ---
 
@@ -70,23 +88,44 @@ Repositório que reúne as atividades e os projetos desenvolvidos durante minha 
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&icon_color=9CA3AF&locale=pt-br" alt="Estatísticas do GitHub" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api?username=bgnff&show_icons=true&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&icon_color=9CA3AF&locale=pt-br"
+  alt="Estatísticas do GitHub"
+/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&locale=pt-br" alt="Linguagens mais utilizadas" />
+<img
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bgnff&layout=compact&hide_border=false&border_color=E8A87C&border_radius=10&bg_color=00000000&title_color=FFFFFF&text_color=9CA3AF&locale=pt-br"
+  alt="Linguagens mais utilizadas"
+/>
 
 </div>
+
+---
 
 ### Contribuições
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg" alt="Animação das contribuições no GitHub" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/bgnff/bgnff/output/github-contribution-grid-snake.svg"
+    alt="Animação das contribuições no GitHub"
+  />
 </picture>
 
 </div>
+
+---
 
 ### Contato
 
@@ -120,4 +159,8 @@ Repositório que reúne as atividades e os projetos desenvolvidos durante minha 
   />
 </a>
 
+<br><br>
+
 <i>Aberto a oportunidades de estágio e desenvolvimento júnior.</i>
+
+</div>
