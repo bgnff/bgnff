@@ -71,4 +71,39 @@ Repositório que reúne atividades e projetos desenvolvidos durante minha forma�
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/brayan-oliveira-955242351/) · [E-mail](mailto:contatobgnx@gmail.com)
+<div align="center">
+
+<a href="https://www.instagram.com/bgnff_/">
+  <img
+    src="https://img.shields.io/badge/Instagram-111827?style=for-the-badge&logo=instagram&logoColor=E4405F"
+    alt="Instagram"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/brayan-oliveira-955242351/">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=00d9ff"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="mailto:contatobgnx@gmail.com">
+  <img
+    src="https://img.shields.io/badge/E--mail-111827?style=for-the-badge&logo=gmail&logoColor=8b5cf6"
+    alt="E-mail"
+  />
+</a>
+
+<a href="https://wa.me/5531985303132">
+  <img
+    src="https://img.shields.io/badge/WhatsApp-111827?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+    alt="WhatsApp"
+  />
+</a>
+
+</div>
+
+
+<div align="center">
+
+<i>Aberto a oportunidades de estágio e desenvolvimento júnior.</i>
