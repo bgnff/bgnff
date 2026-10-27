@@ -9,7 +9,7 @@ Me chamo **Brayan Oliveira**, moro em Ribeirão das Neves - MG e curso **Anális
 Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH** e busco minha primeira oportunidade em tecnologia, como **estagiário ou desenvolvedor júnior**, para continuar aprendendo e evoluindo na prática.
 
 <div align="center">
-  <img src="./assets/levi-ackerman.gif" width="500" alt="GIF de Attack on Titan" />
+  <img src="./assets/ackerman.gif" width="500" alt="GIF de Attack on Titan" />
 </div>
 
 ### Tecnologias e ferramentas
