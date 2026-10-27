@@ -37,15 +37,37 @@ Busco minha primeira oportunidade na área de tecnologia, como **estagiário ou 
 
 ### Projetos em destaque
 
-**[PataHub — Gestão de Petshop](https://github.com/PipitoDev/PetShop_App)**  
-Sistema completo de gestão operacional para petshops, desenvolvido com **C#, Windows Forms e MySQL**.
+### 🐾 PataHub — Sistema de Gestão para Petshop
 
-**Sistema de Gerenciamento de Parceiros — Fundação CDL-BH**  
-Sistema desenvolvido para auxiliar na organização e no gerenciamento de fornecedores e parceiros, com cadastro, consulta, edição, exclusão e controle de acesso. Desenvolvido com **Java, Spring Boot, MySQL, React e APIs REST**.  
-*Repositório privado.*
+Sistema completo de **gestão operacional para petshops**, desenvolvido como aplicação desktop para auxiliar na organização das atividades do estabelecimento.
 
-**[SISM — Atividades do SENAI](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)**  
-Repositório que reúne atividades e projetos desenvolvidos durante minha formação no SENAI, registrando minha trajetória e evolução em lógica de programação, desenvolvimento de sistemas e bancos de dados.
+`C#` · `Windows Forms` · `MySQL`
+
+🔗 [Acessar o repositório](https://github.com/PipitoDev/PetShop_App)
+
+<br>
+
+### 🤝 Sistema de Gerenciamento de Parceiros — Fundação CDL-BH
+
+Sistema desenvolvido para auxiliar na organização e no gerenciamento de fornecedores e parceiros da Fundação CDL-BH.
+
+Conta com funcionalidades de cadastro, consulta, edição e exclusão, além de controle de usuários, login, validações, registro de alterações e backup do banco de dados.
+
+`Java` · `Spring Boot` · `MySQL` · `JPA/Hibernate` · `React` · `REST API` · `Git/GitHub`
+
+🔒 Repositório privado.
+
+<br>
+
+### 📚 SISM — Atividades do SENAI
+
+Repositório que reúne as atividades e os projetos desenvolvidos durante minha formação no SENAI, registrando minha trajetória de aprendizagem e evolução em programação, desenvolvimento de sistemas e bancos de dados.
+
+🔗 [Acessar o repositório](https://github.com/bgnff/SENAI-SISM2026-ATIVIDADES)
+
+<br>
+
+---
 
 ### Estatísticas do GitHub
 
