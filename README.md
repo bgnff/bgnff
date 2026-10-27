@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2800&pause=1800&color=E8A87C&center=true&vCenter=true&width=520&height=65&lines=Ol%C3%A1%2C+eu+sou+o+Brayan." alt="Olá, eu sou o Brayan." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2800&pause=1800&color=E8A87C&center=true&vCenter=true&width=520&height=65&lines=Ol%C3%A1%2C+eu+sou+o+Brayan." alt="Olá! Prazer, eu sou o Braya!." />
 
 **Desenvolvimento de software · Aprendizado contínuo**
 
