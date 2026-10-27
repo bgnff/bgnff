@@ -2,8 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=29&duration=2900&pause=1600&color=E8A87C&center=true&vCenter=true&width=720&height=70&lines=Ol%C3%A1%21+Prazer%2C+eu+sou+o+Brayan%21" alt="Olá! Prazer, eu sou o Brayan!" />
 
-### Sobre mim
-
 <img
   align="right"
   src="./assets/ackerman.gif"
