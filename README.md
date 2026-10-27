@@ -1,8 +1,6 @@
 
 <div align="center">
 
-<img src="./assets/bgnff-monograma.svg" width="85" alt="Monograma BGNFF" />
-
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=30&duration=2800&pause=1800&color=E8A87C&center=true&vCenter=true&width=650&height=65&lines=Ol%C3%A1%21+Prazer%2C+eu+sou+o+Brayan%21" alt="Olá! Prazer, eu sou o Brayan!" />
