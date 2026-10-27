@@ -19,7 +19,7 @@
 
 Sou estudante do curso técnico de **Análise e Desenvolvimento de Sistemas no SENAI CTTI**, com conclusão prevista para **julho de 2027**.
 
-Tenho interesse em **desenvolvimento back-end**, programação e bancos de dados. Gosto de entender como as coisas funcionam por trás dos sistemas e transformar ideias em soluções.
+Tenho interesse em **desenvolvimento Full-Stack** e bancos de dados. Gosto de entender como as coisas funcionam por trás dos sistemas e transformar ideias em soluções.
 
 Atualmente, sou **Jovem Aprendiz na Fundação CDL-BH**, onde apoio rotinas administrativas e, por iniciativa própria, também auxilio em atividades básicas de suporte de TI.
 
