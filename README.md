@@ -14,7 +14,7 @@
 <img
   align="right"
   src="./assets/eren.gif"
-  width="340"
+  width="320"
   alt="Levi Ackerman em Attack on Titan"
 />
 
